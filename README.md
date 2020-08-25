@@ -1,4 +1,4 @@
-### Hi there, I'm [Paulo Marcos](https://paulobmarcos.github.io)! <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="50"/>
+### Hi there, I'm [Paulo Marcos](https://paulobmarcos.github.io)! <img src="/assets/gifs/wave.gif" width="40"/>
 
 Welcome to my GitHub!
 
@@ -37,6 +37,20 @@ I'm a 👨‍💻 <b>Software Engineer</b> from <img src="https://image.flaticon
 
 
 🤯 I'm thrilled to announce **3!** [**VEGA AWARDS WINNER**](https://vegaawards.com) prizes as **tech lead** in 2020! 🏆💪
+
+<p>
+<a href="https://vegaawards.com/winner-info.php?id=2620">
+  <img src="/assets/pngs/vega-audioux.png"/>
+</a>
+<a href="https://vegaawards.com/winner-info.php?id=2615">
+  <img src="/assets/pngs/vega-thu.png"/>
+</a>
+<a href="https://vegaawards.com/winner-info.php?id=2618">
+  <img src="/assets/pngs/vega-stratio.png"/>
+</a>
+</p>
+
+Shout out to <img src="https://avatars1.githubusercontent.com/u/19508739?s=200&v=4" width="20"/> [MOXY Sudio](https://github.com/moxystudio) <img src="/assets/gifs/clapping.gif" width="30"/>
 
 
 ### Get in touch
