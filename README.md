@@ -1,4 +1,4 @@
-### Hi there, I'm [Paulo Marcos](https://paulobmarcos.github.io)! <img src="/assets/gifs/wave.gif" width="40"/>
+### Hi there, I'm [Paulo Marcos](https://paulobmarcos.github.io)! <img src="/assets/gifs/wave.gif" width="35"/>
 
 Welcome to my GitHub!
 
@@ -6,6 +6,7 @@ I'm a 👨‍💻 <b>Software Engineer</b> from <img src="https://image.flaticon
 
 - 🎂 5 years of experience.
 - 💼 Currently working at [GYANT](https://gyant.com/).
+- 🚀 Always thriving to learn & improve.
 - 🎾 *Trying* to play padel with friends. 😅
 
 ### Expertise
