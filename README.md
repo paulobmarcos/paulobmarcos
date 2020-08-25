@@ -1,16 +1,55 @@
-### Hi there 👋
+### Hi there, I'm [Paulo Marcos](https://paulobmarcos.github.io)! <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="50"/>
 
-<!--
-**paulobmarcos/paulobmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm a 👨‍💻 <b>Software Engineer</b> from <img src="https://image.flaticon.com/icons/svg/299/299724.svg" width="16"/> <b>Porto, Portugal</b>, who likes to work with state of the art technologies and who thoroughly seeks to do his work with finesse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎂 5 years of experience.
+- 💼 Currently working at [GYANT](https://gyant.com/).
+- 🎾 *Trying* to play padel with friends. 😅
+
+### Expertise
+
+<p>
+<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-FFCC22?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="nextjs" src="https://img.shields.io/badge/-Next.js-ea2845?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="webpack" src="https://img.shields.io/badge/-Webpack-007DB8?style=flat-square&logo=webpack&logoColor=white" />
+<img alt="postcss" src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" />
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img alt="jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+</p>
+
+### Notorious Work
+
+- <img src="https://paulobmarcos.github.io/_next/static/chunks/media/images/favicon-32x32.56963dd50d66585.png" width="22" /> [paulobmarcos](https://paulobmarcos.github.io)
+
+- 🔊 [AudioUX](http://audioux.com/)
+
+- 🚚 [Stratio Automotive](https://stratioautomotive.com/)
+
+- 🦄 [THU Japan 2020](https://japan.trojan-unicorn.com/)
+
+
+🤯 I'm thrilled to announce **3!** [**VEGA AWARDS WINNER**](https://vegaawards.com) prizes as **tech lead** in 2020! 🏆💪
+
+
+### Get in touch
+
+- <img src="https://image.flaticon.com/icons/svg/893/893261.svg" width="18"/> [paulobmarcos@outlook.com](paulobmarcos@outlook.com)
+- <img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="18"/> [LinkedIn](https://www.linkedin.com/in/paulobmarcos/)
+- <img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="18"/> [Instagram](https://www.instagram.com/paulobmarcos/)
+
+### GitHub Stats
+
+[![Website](https://img.shields.io/website?label=paulobmarcos.github.io&style=for-the-badge&url=https://paulobmarcos.github.io)](https://paulobmarcos.github.io)
+![GitHub followers](https://img.shields.io/github/followers/paulobmarcos?style=for-the-badge)
+
+<p>
+<img align="left" alt="paulobmarcos Github Stats" src="https://github-readme-stats.vercel.app/api?username=paulobmarcos&show_icons=true&hide_border=true" />
+</p>
