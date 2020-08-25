@@ -34,7 +34,7 @@ I'm a 👨‍💻 <b>Software Engineer</b> from <img src="https://image.flaticon
 - 🦄 [THU Japan 2020](https://japan.trojan-unicorn.com/)
 
 
-🤯 I'm thrilled to announce **3!** [**VEGA AWARDS WINNER**](https://vegaawards.com) prizes as **tech lead** in 2020! 🏆💪   *Shout out to <img src="https://avatars1.githubusercontent.com/u/19508739?s=200&v=4" width="20"/> [MOXY Sudio](https://github.com/moxystudio) <img src="https://github.com/paulobmarcos/paulobmarcos/blob/master/assets/gifs/clapping.gif" width="28"/>*
+🤯 I'm thrilled to announce **3!** [**VEGA AWARDS WINNER**](https://vegaawards.com) prizes as **tech lead** in 2020! 🏆💪  *Shout out to <img src="https://avatars1.githubusercontent.com/u/19508739?s=200&v=4" width="20"/> [MOXY Sudio](https://github.com/moxystudio) <img src="https://github.com/paulobmarcos/paulobmarcos/blob/master/assets/gifs/clapping.gif" width="28"/>*
 
 <p>
 <a href="https://vegaawards.com/winner-info.php?id=2620">
