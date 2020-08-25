@@ -29,11 +29,8 @@ I'm a 👨‍💻 <b>Software Engineer</b> from <img src="https://image.flaticon
 ### Notorious Work
 
 - <img src="https://paulobmarcos.github.io/_next/static/chunks/media/images/favicon-32x32.56963dd50d66585.png" width="22" /> [paulobmarcos](https://paulobmarcos.github.io)
-
 - 🔊 [AudioUX](http://audioux.com/)
-
 - 🚚 [Stratio Automotive](https://stratioautomotive.com/)
-
 - 🦄 [THU Japan 2020](https://japan.trojan-unicorn.com/)
 
 
@@ -41,13 +38,13 @@ I'm a 👨‍💻 <b>Software Engineer</b> from <img src="https://image.flaticon
 
 <p>
 <a href="https://vegaawards.com/winner-info.php?id=2620">
-  <img src="https://github.com/paulobmarcos/paulobmarcos/blob/master/assets/pngs/vega-audioux.png"/>
+  <img src="https://github.com/paulobmarcos/paulobmarcos/blob/master/assets/pngs/vega-audioux.png" width="250px" />
 </a>
 <a href="https://vegaawards.com/winner-info.php?id=2615">
-  <img src="https://github.com/paulobmarcos/paulobmarcos/blob/master/assets/pngs/vega-thu.png"/>
+  <img src="https://github.com/paulobmarcos/paulobmarcos/blob/master/assets/pngs/vega-thu.png" width="250px" />
 </a>
 <a href="https://vegaawards.com/winner-info.php?id=2618">
-  <img src="https://github.com/paulobmarcos/paulobmarcos/blob/master/assets/pngs/vega-stratio.png"/>
+  <img src="https://github.com/paulobmarcos/paulobmarcos/blob/master/assets/pngs/vega-stratio.png" width="250px" />
 </a>
 </p>
 
