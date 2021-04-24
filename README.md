@@ -5,7 +5,7 @@ Welcome to my GitHub!
 I'm a 👨‍💻 <b>Software Engineer</b> from <img src="https://image.flaticon.com/icons/svg/299/299724.svg" width="16"/> <b>Porto, Portugal</b>, who likes to work with state of the art technologies and who thoroughly seeks to do his work with finesse.
 
 - 🎂 5 years of experience.
-- 💼 Currently working at [GYANT](https://gyant.com/).
+- 💼 Currently working at [Rows](https://rows.com/).
 - 🚀 Always thriving to learn & improve.
 - 🎾 *Trying* to play padel with friends. 😅
 
