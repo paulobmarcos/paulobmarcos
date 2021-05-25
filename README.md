@@ -6,7 +6,7 @@ I'm a <b>Software Engineer</b> from <b>Porto, Portugal</b>, who likes to work wi
 
 - 🎂 &nbsp; 5 years of experience.
 - 💼 &nbsp; Currently working at [Rows](https://rows.com/).
-- 🚀 &nbsp; Always striving to improve and do better everyday.
+- 🚀 &nbsp; Always striving to improve and be better everyday.
 
 ### Expertise
 
