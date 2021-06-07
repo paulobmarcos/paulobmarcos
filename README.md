@@ -30,7 +30,7 @@ I'm a <b>Software Engineer</b> from <b>Porto, Portugal</b>, who likes to work wi
 - <img src="https://paulobmarcos.github.io/_next/static/chunks/media/images/favicon-32x32.56963dd50d66585.png" width="22" align="center" /> [paulobmarcos](https://paulobmarcos.github.io)
 - 🔊 &nbsp; [AudioUX](http://audioux.com/)
 - 🚚 &nbsp; [Stratio Automotive](https://stratioautomotive.com/)
-- 🦄 &nbsp; [THU Japan 2020](https://japan.trojan-unicorn.com/)
+- 🦄 &nbsp; [THU Japan 2020](https://www.youtube.com/embed/ZiUUsN99ngM)
 
 
  <img src="https://github.com/paulobmarcos/paulobmarcos/blob/master/assets/gifs/clapping.gif" width="28"/> I'm thrilled to announce **3!** [**VEGA AWARDS WINNER**](https://vegaawards.com) prizes as **tech lead** in 2020! 🤯🏆💪  *Shout out to [MOXY Studio](https://github.com/moxystudio)* <img src="https://avatars1.githubusercontent.com/u/19508739?s=200&v=4" width="20" align="center" />
